@@ -5,11 +5,11 @@ Ein Python-basiertes System zur automatisierten Berechnung von Kapitalertragsteu
 Das Skript identifiziert steuerliche Optimierungspotenziale wie Tax-Loss-Harvesting, um ungenutzte Verluste vor Jahresende (z.B. im Dezember) zu realisieren und so die Steuerlast auf Kursgewinne zu senken.
 
 
-# Was kann das Script:
-FIFO-Accounting
-Tax-Loss-Harvesting
-Automatisierte Tests
-Einlesen von externen Positionen
+## Kernfunktionen
+* **FIFO-Accounting:** Korrekte steuerliche Behandlung von Wertpapiertranchen gemäß deutscher Rechtsprechung.
+* **Tax-Loss-Harvesting:** Automatisierte Identifizierung von Positionen im Verlustbereich.
+* **Szenario-Management:** Einlesen von externen Portfoliodaten und Marktpreisen über JSON-Dateien.
+* **Qualitätssicherung:** Vollständige Abdeckung der Logik durch automatisierte Unit-Tests.
 
 
 ## Tech Stack
