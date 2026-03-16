@@ -1,0 +1,8 @@
+{
+    "market_price": 10,
+    "transactions": [
+        {"action": "buy", "amount": 100, "price": 20},
+        {"action": "buy", "amount": 100, "price": 10},
+        {"action": "buy", "amount": 100, "price": 30}
+    ]
+}

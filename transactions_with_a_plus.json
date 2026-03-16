@@ -1,0 +1,9 @@
+{
+    "_comment": "Szenario: Firma A im leichten Bullenmarkt mit 500 + 1500 - 500 = 1500 im plus",
+    "market_price": 25,
+    "transactions": [
+        {"action": "buy", "amount": 100, "price": 20},
+        {"action": "buy", "amount": 100, "price": 10},
+        {"action": "buy", "amount": 100, "price": 30}
+    ]
+}
